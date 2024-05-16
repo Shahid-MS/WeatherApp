@@ -1,0 +1,9 @@
+.search-box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn{
+    margin: 1rem;
+}
